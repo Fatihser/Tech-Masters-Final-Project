@@ -3,7 +3,7 @@ Credits
 
 Patreon's Top Down Collection : https://ansimuz.itch.io/patreons-top-down-collection
 
-Isometric Medieval City Sim Assets : Isometric Medieval City Sim Assets
+Isometric Medieval City Sim Assets : https://opengameart.org/content/isometric-medieval-city-sim-assets
 
 A downloadable Health Bars : https://adwitr.itch.io/pixel-health-bar-asset-pack-2
 

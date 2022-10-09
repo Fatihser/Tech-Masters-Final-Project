@@ -1,8 +1,17 @@
 # Tech Masters Final Project
+
+![Screenshot 2022-10-09 173255](https://user-images.githubusercontent.com/58585164/194762698-7fbd68d2-9888-442c-8f68-aae2671a4f3d.jpeg)
+
+![Screenshot 2022-10-09 173315](https://user-images.githubusercontent.com/58585164/194762745-7ae56963-11be-41c0-a8ad-241ba76a62e3.jpeg)
+
+![Screenshot 2022-10-09 173412](https://user-images.githubusercontent.com/58585164/194762759-88e97dba-ab68-472a-88c4-8ec4efca8f37.jpeg)
+
+![Screenshot 2022-10-09 173330](https://user-images.githubusercontent.com/58585164/194762754-d1ff163b-9123-4325-8864-35a415d88a72.jpeg)
+
+
 Credits
 
 Patreon's Top Down Collection : https://ansimuz.itch.io/patreons-top-down-collection
-![Screenshot 2022-10-09 173255](https://user-images.githubusercontent.com/58585164/194762698-7fbd68d2-9888-442c-8f68-aae2671a4f3d.jpeg)
 
 Isometric Medieval City Sim Assets : https://opengameart.org/content/isometric-medieval-city-sim-assets
 
